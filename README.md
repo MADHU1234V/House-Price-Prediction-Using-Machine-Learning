@@ -37,9 +37,13 @@ Scikit-learn
 
 house-price-prediction-ml/
 │
+
 ├── HousePrice-1.ipynb   # Data cleaning and exploratory data analysis
+
 ├── HousePrice-2.ipynb   # Model training, evaluation, and prediction
+
 ├── README.md
+
 └── requirements.txt
 
 ## Project Workflow
